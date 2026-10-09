@@ -1,0 +1,5 @@
+# Source mockup the page was built from
+image.png
+
+# Local tooling output
+.playwright-mcp/
